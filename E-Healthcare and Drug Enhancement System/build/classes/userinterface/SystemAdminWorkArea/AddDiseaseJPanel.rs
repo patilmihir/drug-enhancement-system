@@ -1,0 +1,4 @@
+UserInterface.SystemAdminWorkArea.AddDiseaseJPanel$3
+UserInterface.SystemAdminWorkArea.AddDiseaseJPanel
+UserInterface.SystemAdminWorkArea.AddDiseaseJPanel$1
+UserInterface.SystemAdminWorkArea.AddDiseaseJPanel$2
